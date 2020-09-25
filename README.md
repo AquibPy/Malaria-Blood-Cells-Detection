@@ -1,13 +1,16 @@
 # Malaria Blood Cell Detection Using Pytorch
 
 ![Python](https://img.shields.io/badge/python-3.x-orange.svg)
-![Type](https://img.shields.io/badge/Deep-Learning-red.svg) ![Type](https://img.shields.io/badge/Type-PYTORCH-green.svg)
+![Type](https://img.shields.io/badge/Deep-Learning-red.svg)
+![Type](https://img.shields.io/badge/Type-PYTORCH-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-yellowgreen.sv
+
 ## Content
 The dataset contains 2 folders
 
 * Infected
-*Uninfected
+
+* Uninfected
  And a total of 27,558 images.
 
 Download Dataset from [here](https://lhncbc.nlm.nih.gov/publication/pub9932).
