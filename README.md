@@ -8,7 +8,7 @@
 ## Content
 The dataset contains 2 folders
 
-* Infected
+* Parasitized
 
 * Uninfected
  And a total of 27,558 images.
