@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.x-orange.svg)
 ![Type](https://img.shields.io/badge/Deep-Learning-red.svg)
 ![Type](https://img.shields.io/badge/Type-PYTORCH-green.svg)
-![Status](https://img.shields.io/badge/Status-Completed-yellowgreen.sv
+![Status](https://img.shields.io/badge/Status-Completed-green.svg)
 
 ## Content
 The dataset contains 2 folders
